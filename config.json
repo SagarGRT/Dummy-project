@@ -1,0 +1,9 @@
+{
+  "risk_free_rate": 0.02,
+  "rebalance_interval": 300,
+  "target_sharpe": null,
+  "cov_window": 60,
+  "price_endpoint": "/prices",
+  "position_endpoint": "/positions",
+  "audit_log_path": "audit.log"
+}
